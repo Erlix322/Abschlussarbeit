@@ -1,6 +1,6 @@
 # 1 Download des Repository
 
-Lade die das Repo als Zip herunter oder klone es über git.
+Lade dir das Repo als .zip herunter oder klone es über git.
 > git clone https://github.com/Erlix322/Abschlussarbeit.git
 
 
